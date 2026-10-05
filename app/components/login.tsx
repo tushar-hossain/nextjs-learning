@@ -9,6 +9,7 @@ export default function Login() {
         Login
       </button>
       <Link href="/register">Register</Link>
+      <Link href="/about">About</Link>
     </div>
   );
 }
